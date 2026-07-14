@@ -1,0 +1,6 @@
+{
+  "name": "DocConvert Hub",
+  "description": "Fast, secure, and free online document tools to merge, split, compress, and convert PDFs and images. 100% private, no sign-up required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
